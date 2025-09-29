@@ -1,3 +1,4 @@
+```hcl
 server.port=8081
 spring.datasource.url=jdbc:mysql://35.154.244.253:3306/student_db
 spring.datasource.username=root
